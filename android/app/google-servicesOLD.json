@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "916323036594",
+    "firebase_url": "https://fitnessquest-80d06-default-rtdb.firebaseio.com",
+    "project_id": "fitnessquest-80d06",
+    "storage_bucket": "fitnessquest-80d06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916323036594:android:3f7e5c8e24e4574e9c88ab",
+        "android_client_info": {
+          "package_name": "com.example.fitness_quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwu2Pem3MNA-MP3_jOatTEeeTr2Cp3O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
